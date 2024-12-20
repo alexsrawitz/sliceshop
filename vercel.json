@@ -5,7 +5,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "frame-ancestors 'self' https://*.farcaster.net;"
+          "value": "frame-ancestors 'self' https://*.farcaster.net https://farcaster.xyz;"
         }
       ]
     }
